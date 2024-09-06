@@ -1,2 +1,2 @@
 # Stock-Master-Solutions
-Sistema de Gestión de Inventario para una Cadena de Tiendas Minoristas basado en la nube y como aplicación web.
+El proyecto en desarrollo es un Sistema de Gestión de Inventario para una Cadena de Tiendas Minoristas basado en la nube y como aplicación web, permite realizar un seguimiento en tiempo real del stock en cada ubicación, realización de informes analíticos para identificar patrones de ventas y ajustar stock en función de la demanda, escaneo de código de barras para registrar la entrada y salida de productos, cuenta con un algoritmo de previsión de demanda para optimizar los niveles de inventario, se integra con un sistema de punto de venta (POS) para actualizaciones automáticas de inventario.
